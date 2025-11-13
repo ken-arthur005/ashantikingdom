@@ -18,16 +18,11 @@ const App = () => {
   return (
     <main>
       <Hero />
-     
       <FirstVideo />
       <Funfacts />
       <Goldenstoolintro/>
       <Stooldeets />
       <Symbols/>
-
-      {/* <PostCard />
-      <Final />
-      <Outro /> */}
     </main>
   )
 }
